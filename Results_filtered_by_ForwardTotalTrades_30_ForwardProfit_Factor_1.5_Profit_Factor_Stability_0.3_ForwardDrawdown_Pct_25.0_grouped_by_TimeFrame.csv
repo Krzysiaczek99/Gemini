@@ -1,0 +1,5 @@
+Net Profit,Forward Net Profit,Annualized Forward Profit,Profit Factor,Forward Profit Factor,Total Trades,Forward Total Trades,Sharpe Ratio,Forward Sharpe Ratio,Recovery Factor,Drawdown %,Forward Drawdown %,Consistency Ratio,Calmar Ratio,Forward Calmar Ratio,Avg Profit Per Trade,Forward Avg Profit Per Trade,Overall Score,Annualized Backtest Return,Profit Factor Stability,Profit per Trade
+mean,mean,mean,mean,mean,mean,mean,mean,mean,mean,mean,mean,mean,mean,mean,mean,mean,mean,mean,mean,mean
+4015.515,817.519,754.633,1.627,1.748,161.824,31.353,0.488,0.651,2.096,9.048,9.299,0.211,462.964,86.930,24.982,25.871,0.170,617.771,0.086,24.982
+2477.419,2470.569,2280.526,1.734,1.751,130.804,110.137,1.354,1.390,1.990,7.652,11.061,1.039,351.555,242.017,19.304,22.646,0.243,1511.389,0.093,19.304
+5238.858,1006.554,4026.214,1.719,1.879,201.885,34.481,1.425,1.838,2.791,14.764,8.758,0.202,374.796,118.070,26.213,29.298,0.276,3196.050,0.136,26.213
